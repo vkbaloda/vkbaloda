@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vipul Kumar, Co-founder Liferary | B.Tech IIT Delhi
+- 👋 Hi, I’m Vipul Kumar, Co-founder [Liferary](https://liferary.in) | B.Tech IIT Delhi
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning about App Architecture, complex UI/UX coding
 - 💞️ I’m looking to collaborate on Flutter Projects
