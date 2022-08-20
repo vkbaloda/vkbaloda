@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vipul Kumar, Co-founder [Liferary](https://liferary.in) | B.Tech IIT Delhi
+- 👋 Hi, I’m Vipul Kumar, Founding Engineer [Bluepad](https://www.bluepad.in/) | Co-founder [Liferary](https://liferary.in) | B.Tech IIT Delhi
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently building [Bluepad](https://www.bluepad.in/)
+- 🌱 I’m currently working in [Farmonaut](https://www.farmonaut.com/)
 - 💞️ I'd love to work or discuss on interesting problems
 - 📫 How to reach me
     - email: vipul@iitdalumni.com
