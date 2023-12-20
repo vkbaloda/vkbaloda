@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Vipul Kumar, Founding Engineer [Bluepad](https://www.bluepad.in/) | Co-founder [Liferary](https://liferary.in) | B.Tech IIT Delhi
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently working in [Farmonaut](https://www.farmonaut.com/)
+- 👀 I’m interested in Full-Stack App Development. Mostly worked on the Frontend side so far
+- 🌱 I’m currently working in [Farmonaut](https://www.farmonaut.com/) as Tech Lead
 - 💞️ I'd love to work or discuss on interesting problems
 - 📫 How to reach me
-    - email: vipul@iitdalumni.com
     - linkedIn: https://www.linkedin.com/in/vipul-baloda-43b220105/
 
 <!---
